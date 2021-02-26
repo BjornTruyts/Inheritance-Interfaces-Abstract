@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Voorbeeld_Inheritance.Classes.Animal">
+    <Position X="4.75" Y="2.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAABAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Animal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Voorbeeld_Inheritance.Classes.Bird">
+    <Position X="6.25" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Bird.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Voorbeeld_Inheritance.Classes.Fish">
+    <Position X="3.5" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Fish.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
