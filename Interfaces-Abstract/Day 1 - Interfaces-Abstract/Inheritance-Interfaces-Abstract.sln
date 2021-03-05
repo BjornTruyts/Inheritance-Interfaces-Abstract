@@ -1,0 +1,79 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld-Interfaces-1-Flying", "Voorbeeld-Interfaces-1-Flying\Voorbeeld-Interfaces-1-Flying.csproj", "{6EF62ECA-422F-4BF1-8B0F-8FEC7C4AA0A1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld-Interfaces-1-Flying-2", "Voorbeeld-Interfaces-1-Flying-2\Voorbeeld-Interfaces-1-Flying-2.csproj", "{E699824E-DA24-4D33-B9A0-2448EF3857E2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening-Interfaces-1-CarBicycleWheelie", "Oefening-Interfaces-1-CarBicycleWheelie\Oefening-Interfaces-1-CarBicycleWheelie.csproj", "{F8E9560C-C16A-4366-95C4-6915567AAD8B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld-Interfaces-1-Flying-3", "Voorbeeld-Interfaces-1-Flying-3\Voorbeeld-Interfaces-1-Flying-3.csproj", "{88DD7FC4-BD73-4118-B9F5-D37550602D92}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld-Interfaces-1-Flying-4", "Voorbeeld-Interfaces-1-Flying-4\Voorbeeld-Interfaces-1-Flying-4.csproj", "{E9AFC9DF-CA46-4B66-82E2-61E9BB521760}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voorbeeld-Interfaces-2-Logger", "Voorbeeld-Interfaces-2-Logger\Voorbeeld-Interfaces-2-Logger.csproj", "{69581EEC-B77E-49F0-BF47-EF67C0F291BD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Voorbeeld-Interfaces-2-Logger-2", "Voorbeeld-Interfaces-2-Logger-2\Voorbeeld-Interfaces-2-Logger-2.csproj", "{5602A57F-105E-41A2-A1C0-84115DEC1821}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oefening-Interfaces-2-Person", "Oefening-Interfaces-2-Person\Oefening-Interfaces-2-Person.csproj", "{AA2AF1B5-5346-4C28-ABF6-3D63AAAA0CD7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Voorbeeld-Interfaces-3-Dieren", "Voorbeeld-Interfaces-3-Dieren\Voorbeeld-Interfaces-3-Dieren.csproj", "{33216F11-0AD7-4009-9C06-F6F68BC86171}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Oefening-Interfaces-3-Shop", "Oefening-Interfaces-3-Shop\Oefening-Interfaces-3-Shop.csproj", "{5B4690C4-5806-4009-8865-7F8CAC8C8057}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6EF62ECA-422F-4BF1-8B0F-8FEC7C4AA0A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EF62ECA-422F-4BF1-8B0F-8FEC7C4AA0A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EF62ECA-422F-4BF1-8B0F-8FEC7C4AA0A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EF62ECA-422F-4BF1-8B0F-8FEC7C4AA0A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E699824E-DA24-4D33-B9A0-2448EF3857E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E699824E-DA24-4D33-B9A0-2448EF3857E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E699824E-DA24-4D33-B9A0-2448EF3857E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E699824E-DA24-4D33-B9A0-2448EF3857E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8E9560C-C16A-4366-95C4-6915567AAD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8E9560C-C16A-4366-95C4-6915567AAD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8E9560C-C16A-4366-95C4-6915567AAD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8E9560C-C16A-4366-95C4-6915567AAD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88DD7FC4-BD73-4118-B9F5-D37550602D92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88DD7FC4-BD73-4118-B9F5-D37550602D92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88DD7FC4-BD73-4118-B9F5-D37550602D92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88DD7FC4-BD73-4118-B9F5-D37550602D92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9AFC9DF-CA46-4B66-82E2-61E9BB521760}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9AFC9DF-CA46-4B66-82E2-61E9BB521760}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9AFC9DF-CA46-4B66-82E2-61E9BB521760}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9AFC9DF-CA46-4B66-82E2-61E9BB521760}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69581EEC-B77E-49F0-BF47-EF67C0F291BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69581EEC-B77E-49F0-BF47-EF67C0F291BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69581EEC-B77E-49F0-BF47-EF67C0F291BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69581EEC-B77E-49F0-BF47-EF67C0F291BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5602A57F-105E-41A2-A1C0-84115DEC1821}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5602A57F-105E-41A2-A1C0-84115DEC1821}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5602A57F-105E-41A2-A1C0-84115DEC1821}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5602A57F-105E-41A2-A1C0-84115DEC1821}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA2AF1B5-5346-4C28-ABF6-3D63AAAA0CD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA2AF1B5-5346-4C28-ABF6-3D63AAAA0CD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA2AF1B5-5346-4C28-ABF6-3D63AAAA0CD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA2AF1B5-5346-4C28-ABF6-3D63AAAA0CD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33216F11-0AD7-4009-9C06-F6F68BC86171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33216F11-0AD7-4009-9C06-F6F68BC86171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33216F11-0AD7-4009-9C06-F6F68BC86171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33216F11-0AD7-4009-9C06-F6F68BC86171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B4690C4-5806-4009-8865-7F8CAC8C8057}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B4690C4-5806-4009-8865-7F8CAC8C8057}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B4690C4-5806-4009-8865-7F8CAC8C8057}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B4690C4-5806-4009-8865-7F8CAC8C8057}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96BAE541-F1E5-4563-B272-FC3289E0768E}
+	EndGlobalSection
+EndGlobal
