@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameProject.Classes.MenuManager" Collapsed="true">
+    <Position X="20" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABgAAEAIAAAABAAAEgAAAACAAAAAIAgAAAAAAABAEA=</HashCode>
+      <FileName>Classes\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameProject.Classes.Chestplate" Collapsed="true">
+    <Position X="13.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAgABAAA=</HashCode>
+      <FileName>Classes\Armors\Chestplate.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProject.Classes.Shield" Collapsed="true">
+    <Position X="15.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAAgABAAA=</HashCode>
+      <FileName>Classes\Armors\Shield.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProject.Classes.Dagger" Collapsed="true">
+    <Position X="6.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAEABAAAAAAEAAAAAAAABAAA=</HashCode>
+      <FileName>Classes\Weapons\Dagger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProject.Classes.Sword" Collapsed="true">
+    <Position X="11.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAEABAAAAAAEAAAAAAAABAAA=</HashCode>
+      <FileName>Classes\Weapons\Sword.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProject.Classes.Enemy" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="18.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAkAAAAAAAAACAAQAAAAAAAAAAAAAgAAAAEE=</HashCode>
+      <FileName>Classes\Characters\Enemy.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameProject.Classes.Player" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="21.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAkAAAAAAAAACAAQABAAAAAAAAAAAgAAAAEE=</HashCode>
+      <FileName>Classes\Characters\Player.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GameProject.Classes.HealthPotion" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAgAAAAAA=</HashCode>
+      <FileName>Classes\Consumables\HealthPotion.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="GameProject.Classes.InventoryItem" Collapsed="true">
+    <Position X="11.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAA=</HashCode>
+      <FileName>Classes\InventoryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GameProject.Interfaces.IArmor" Collapsed="true">
+    <Position X="18.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Interfaces\IArmor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProject.Interfaces.ICharacter" Collapsed="true">
+    <Position X="20" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAkAAAAAAAAACAAQAAAAAAAAAAAAAgAAAAEE=</HashCode>
+      <FileName>Interfaces\ICharacter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProject.Interfaces.IConsumable" Collapsed="true">
+    <Position X="21.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Interfaces\IConsumable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProject.Interfaces.IDurability" Collapsed="true">
+    <Position X="18.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Interfaces\IDurability.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProject.Interfaces.IWeapon" Collapsed="true">
+    <Position X="20" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

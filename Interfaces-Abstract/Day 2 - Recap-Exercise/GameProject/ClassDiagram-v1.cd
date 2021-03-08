@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="GameProject.Classes.MenuManager">
+    <Position X="22" Y="5" Width="4.75" />
+    <NestedTypes>
+      <Enum Name="GameProject.Classes.MenuManager.MenuLocation" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Classes\MenuManager.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AABgAAGAIAAAABAAAEgAAAACAAAAAIAgAAAAAAABAEA=</HashCode>
+      <FileName>Classes\MenuManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GameProject.Interfaces.IArmor">
+    <Position X="19.25" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAA=</HashCode>
+      <FileName>Interfaces\IArmor.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProject.Interfaces.ICharacter">
+    <Position X="13.75" Y="3.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAkAAAAAAAAACAAQAAAAAAAAAAAAAgAAAAAE=</HashCode>
+      <FileName>Interfaces\ICharacter.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProject.Interfaces.IConsumable">
+    <Position X="21.5" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Interfaces\IConsumable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProject.Interfaces.IDurability">
+    <Position X="23.75" Y="3.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Interfaces\IDurability.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="GameProject.Interfaces.IWeapon">
+    <Position X="17" Y="3.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAABAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\IWeapon.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
